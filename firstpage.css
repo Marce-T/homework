@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: plum;
+}
+
+.photoWebsite img {
+    margin: auto;
+    display: block;
+    width: 50%;
+
+   
+}
